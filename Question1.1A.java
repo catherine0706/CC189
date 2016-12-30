@@ -28,3 +28,6 @@ public class Main {
         }
     }
 }
+
+/*  time complexity is O(n), n is the length of the string. And the space complexity
+    is O(1), since we only created a boolean[128].  */
